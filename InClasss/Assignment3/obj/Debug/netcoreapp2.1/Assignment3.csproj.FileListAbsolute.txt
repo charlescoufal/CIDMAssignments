@@ -1,0 +1,11 @@
+C:\CIDM3312\InClasss\Assignment3\bin\Debug\netcoreapp2.1\Assignment3.deps.json
+C:\CIDM3312\InClasss\Assignment3\bin\Debug\netcoreapp2.1\Assignment3.runtimeconfig.json
+C:\CIDM3312\InClasss\Assignment3\bin\Debug\netcoreapp2.1\Assignment3.runtimeconfig.dev.json
+C:\CIDM3312\InClasss\Assignment3\bin\Debug\netcoreapp2.1\Assignment3.dll
+C:\CIDM3312\InClasss\Assignment3\bin\Debug\netcoreapp2.1\Assignment3.pdb
+C:\CIDM3312\InClasss\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.csprojAssemblyReference.cache
+C:\CIDM3312\InClasss\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.csproj.CoreCompileInputs.cache
+C:\CIDM3312\InClasss\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.AssemblyInfoInputs.cache
+C:\CIDM3312\InClasss\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.AssemblyInfo.cs
+C:\CIDM3312\InClasss\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.dll
+C:\CIDM3312\InClasss\Assignment3\obj\Debug\netcoreapp2.1\Assignment3.pdb
